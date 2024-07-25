@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-
+# Criminal-Face-Identification-System
 1. **Objective**: CFIS aims to enhance law enforcement capabilities by providing a real-time system for identifying individuals with criminal backgrounds using facial recognition technology.
 
 2. **Technologies Used**:
@@ -33,6 +31,3 @@
 6. **Impact**: CFIS contributes to public safety by providing a reliable and efficient tool for identifying and tracking individuals with criminal backgrounds. It improves the efficiency of law enforcement operations and enhances security measures in various environments.
 
 This structured approach outlines how CFIS functions, the technologies it employs, its practical applications, and its overall impact on law enforcement and security.
-=======
-# Criminal-Face-Identification-System
->>>>>>> 03bce16f06393d9c561bc32fc43ae75cd8c79d0d
